@@ -10,5 +10,9 @@
 ##### Navigate to backend foler -> run node index.js 
 ##### Put eonChart/index.html in the browser to view dashboard
 
+## Real Time Dashboard of Cuteness!!
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-![Alt Text](https://github.com/SheldonGeek/Twitter-Sentiment-Analysis/blob/master/ezgif.com-video-to-gif.gif)
+## Real Time Dashboard on FireBase!!
+![Alt Text](https://github.com/SheldonGeek/Twitter-Sentiment-Analysis/blob/master/firebase-dashboard.gif)
+## Real Time Dashboard powered by Eon messaging queue!!
+![Alt Text](https://github.com/SheldonGeek/Twitter-Sentiment-Analysis/blob/master/eon-dashboard.gif)
