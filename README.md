@@ -11,3 +11,4 @@
 ##### Put eonChart/index.html in the browser to view dashboard
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/SheldonGeek/Twitter-Sentiment-Analysis/blob/master/ezgif.com-video-to-gif.gif)
