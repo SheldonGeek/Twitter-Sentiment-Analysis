@@ -17,5 +17,5 @@
 ## Real Time Dashboard powered by Eon messaging queue!!
 ![Alt Text](https://github.com/SheldonGeek/Twitter-Sentiment-Analysis/blob/master/eon-dashboard.gif)
 
-I got some of data pipeline ideas from Sarah's Goole I/O talk. Thanks Sarah! 
+I got some of data pipeline ideas from Sarah's Google I/O talk. Thanks Sarah! 
 Check her talk out here:https://www.youtube.com/watch?v=ETeeSYMGZn0&feature=youtu.be
