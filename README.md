@@ -10,6 +10,9 @@
 ##### Navigate to backend foler -> run node index.js 
 ##### Put eonChart/index.html in the browser to view dashboard
 
+## Check out case study here - Use Google Cloud and AI products to Analyze Apple products
+https://github.com/SheldonGeek/Twitter-Sentiment-Analysis/blob/master/AI%20Sentiment%20Analysis%20for%20Apple%20Products%20By%20Lei%20Pan.pdf
+
 ## Real Time Dashboard of Cuteness!!
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ## Real Time Dashboard on FireBase!!
