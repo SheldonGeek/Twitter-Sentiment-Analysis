@@ -13,6 +13,9 @@
 ## Check out case study here - Use Google Cloud and AI products to Analyze Apple products
 https://github.com/SheldonGeek/Twitter-Sentiment-Analysis/blob/master/AI%20Sentiment%20Analysis%20for%20Apple%20Products%20By%20Lei%20Pan.pdf
 
+Or you can read it here:
+https://www.lei-pan.com/case-study/ai-sentiment-analysis-using-google-ai-and-google-cloud
+
 ## Real Time Dashboard of Cuteness!!
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ## Real Time Dashboard on FireBase!!
